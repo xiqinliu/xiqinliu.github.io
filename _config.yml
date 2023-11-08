@@ -1,6 +1,6 @@
 # Setup
-title: LiuXiqin's Personal Page 
-description: Beijing Normal University
+title: Liu Xiqin
+description: Beijing Nornal University
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -43,8 +43,7 @@ lang: en
 sass:
   sass_dir: _sass
   style: :compressed
-plugins:
-  - xiqinliu.github.io
+
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
